@@ -3,7 +3,8 @@
 I'm gonna attempt to use a different language every day...
 
 ### List of languages used
-_(by day)_
 
-1. Pascal
+> _Day. Language (time coding)_
+
+1. Pascal _(2h)_
 2. ?
