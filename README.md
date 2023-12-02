@@ -7,4 +7,5 @@ I'm gonna attempt to use a different language every day...
 > _Day. Language (time coding)_
 
 1. Pascal _(2h)_
-2. ?
+2. LISP _(1h30m)_
+3. ??
