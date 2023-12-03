@@ -1,6 +1,8 @@
 # Advent Of Code 2023
 
-I'm gonna attempt to use a different language every day...
+Doing the challenge of using a different language every day.
+
+Each day, I'll post the full codes for both parts in the same file, although they share some code.
 
 ### List of languages used
 
@@ -8,4 +10,5 @@ I'm gonna attempt to use a different language every day...
 
 1. Pascal _(2h)_
 2. LISP _(1h30m)_
-3. ??
+3. Ruby _(1h)_
+4. ??
